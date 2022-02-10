@@ -31,7 +31,7 @@
 .container {
   position: relative;
   width: 100%;
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   margin-top: 25%;
   padding: 0 20px;
@@ -45,7 +45,7 @@
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
-    width: 50%;
+    width: 55%;
     padding: 0; }
 }
 
