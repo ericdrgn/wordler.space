@@ -52,7 +52,7 @@
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
-    width: 25%; }
+    width: 80%; }
   .column,
   .columns {
     margin-left: 4%; }
