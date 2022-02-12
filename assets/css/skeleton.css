@@ -45,9 +45,9 @@
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
-    width: 10%;
+    width: 100%;
     margin-top: 25%;
-    margin: 0 auto;
+    margin: 25% auto;
     padding: 0; }
 }
 
