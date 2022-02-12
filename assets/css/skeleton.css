@@ -29,13 +29,13 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
-  position: absolute;
+  position: relative;
   width: 50%;
   max-width: 500px;
   margin: 0 auto;
   margin-top: 15%;
   margin-left: 40%;
-  margin-right: 25%;
+  margin-right: 40%;
   padding-top: 0%
   box-sizing: border-box; }
 .column,
