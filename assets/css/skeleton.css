@@ -34,8 +34,6 @@
   max-width: 500px;
   margin: 0 auto;
   margin-top: 15%;
-  margin-left: 40%;
-  margin-right: 40%;
   padding-top: 0%
   box-sizing: border-box; }
 .column,
@@ -49,13 +47,15 @@
   .container {
     width: 10%;
     margin-top: 25%;
+    margin: 0 auto;
     padding: 0; }
 }
 
 /* For devices larger than 550px */
 @media (min-width: 800px) {
   .container {
-    width: 100%; }
+    width: 100%; 
+    margin: 0 auto; }
   .column,
   .columns {
     margin-left: 4%; }
